@@ -1724,6 +1724,8 @@
     <Content Include="fontawesome\webfonts\fa-solid-900.svg" />
     <Content Include="HomePage.aspx" />
     <Content Include="imgs\adminuser.png" />
+    <Content Include="imgs\BA001.jpg" />
+    <Content Include="imgs\BA002.png" />
     <Content Include="imgs\book-online.png" />
     <Content Include="imgs\books.png" />
     <Content Include="imgs\books1.png" />
@@ -1734,9 +1736,17 @@
     <Content Include="imgs\home-bg.jpg" />
     <Content Include="imgs\in-homepage-banner.jpg" />
     <Content Include="imgs\library.png" />
+    <Content Include="imgs\logo.png" />
     <Content Include="imgs\publisher.png" />
     <Content Include="imgs\search-online.png" />
     <Content Include="imgs\sign-up.png" />
+    <Content Include="imgs\slides-1.jpg" />
+    <Content Include="imgs\slides-2.jpg" />
+    <Content Include="imgs\slides-3.jpg" />
+    <Content Include="imgs\slides-4.jpg" />
+    <Content Include="imgs\slides-5.jpg" />
+    <Content Include="imgs\slides-6.jpg" />
+    <Content Include="imgs\slides-7.jpg" />
     <Content Include="imgs\writer.png" />
     <Content Include="usersingup.aspx" />
     <Content Include="userlogin.aspx" />

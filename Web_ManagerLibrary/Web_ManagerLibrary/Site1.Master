@@ -23,6 +23,9 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
+    <section>
+      <img src="imgs/BA001.jpg"  class="img-fluid"/>
+      </section>
     <form id="form1" runat="server">
         
         <div>

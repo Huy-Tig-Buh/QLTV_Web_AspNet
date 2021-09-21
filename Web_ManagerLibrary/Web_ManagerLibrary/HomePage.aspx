@@ -4,9 +4,7 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-   <section>
-      <img src="imgs/BA001.jpg" class="img-fluid"/>
-   </section>
+
    <section>
        <center>
            <div class="slideshow-container">

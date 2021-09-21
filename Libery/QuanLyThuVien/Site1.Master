@@ -25,54 +25,44 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
+    <section>
+        <center><img src="imgs/BA002.png"  class="img-fluid"/>
+
+        </center>
+      </section>
     <form id="form1" runat="server">
-        <div>
-            <nav class="navbar navbar-expand-lg nav-light">
-                <a class="navbar-brand" href="#">
-                    <img src="imgs/books.png" width="30" height="30" />
-                    DNTU-Library
-                </a>
+        <div >
+            <div class="row">
 
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+                  <div class="col-md-2">
+                                <a class="navbar-brand" href="#">
+                                    <img src="imgs/logo.png" width="30" height="60" />
+                                    DNTU-Library
+                                </a>
+                          </div>
 
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="homepage.aspx">Home</a>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="#">About Us</a>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="#">Terms</a>
-                        </li>
 
-                    </ul>
+                  <div class="col-md-1"><a class="btn btn-sm animated-button victoria-one" href="homepage.aspx"  >Home</a></div>
 
-                    <ul class="navbar-nav">
-                        <li class="nav-item active">
-                            <asp:LinkButton class="nav-link" ID="LinkButton4" runat="server">View Books</asp:LinkButton>
-                        </li>
+                  <div class="col-md-1"><a class="btn btn-sm animated-button victoria-one" href="#">About Us</a></div>
 
-                        <li class="nav-item active">
-                            <asp:LinkButton class="nav-link" ID="LinkButton1" runat="server">User Login</asp:LinkButton>
-                        </li>
-                        <li class="nav-item active">
-                            <asp:LinkButton class="nav-link" ID="LinkButton2" runat="server">Sign Up</asp:LinkButton>
-                        </li>
-                        <li class="nav-item active">
-                            <asp:LinkButton class="nav-link" ID="LinkButton3" runat="server">Logout</asp:LinkButton>
-                        </li>
+                  <div class="col-md-1"><a class="btn btn-sm animated-button victoria-one" href="#">Terms</a></div>
 
-                        <li class="nav-item active">
-                            <asp:LinkButton class="nav-link" ID="LinkButton7" runat="server">Hello user</asp:LinkButton>
+                  <div class="col-md-1"><a class="btn btn-sm animated-button victoria-one" href="#">Books</a></div>
 
-                        </li>
-                    </ul>
-                </div>
-            </nav>
+                  <div class="col-md-1"><a class="btn btn-sm animated-button victoria-one" href="#">User Login</a></div>
+
+                  <div class="col-md-1"><a class="btn btn-sm animated-button victoria-one" href="#">Sign Up</a></div>
+
+                  <div class="col-md-1"><a class="btn btn-sm animated-button victoria-one" href="#">Logout</a></div>
+
+                  <div class="col-md-1"><a class="btn btn-sm animated-button victoria-one" href="#">Hello user</a></div>
+
+                  <div class="col-md-1">.col-md-1</div>
+
+                  <div class="col-md-1">.col-md-1</div>
+
+        </div>
         </div>
 
         <!-- Main Content Placeholder -->
