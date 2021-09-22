@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="adminbookinventory.aspx.cs" Inherits="QuanLyThuVien.adminbookinventory" %>
+﻿ <%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="adminbookinventory.aspx.cs" Inherits="QuanLyThuVien.adminbookinventory" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -18,7 +18,7 @@
                         <div class="row">
                             <div class="col">
                                 <center>
-                                    <img width="100px" src="imgs/books.png" />
+                                    <img width="100" src="imgs/books.png" />
                                 </center>
                             </div>
                         </div>
