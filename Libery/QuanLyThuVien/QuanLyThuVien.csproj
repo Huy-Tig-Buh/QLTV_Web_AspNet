@@ -72,6 +72,7 @@
     <Content Include="bootstrap\js\bootstrap.min.js" />
     <Content Include="bootstrap\js\jquery-3.3.1.slim.min.js" />
     <Content Include="bootstrap\js\popper.min.js" />
+    <Content Include="css\css.css" />
     <Content Include="css\CustomStyleSheet.css" />
     <Content Include="database\css\jquery.dataTables.min.css" />
     <Content Include="database\js\jquery.dataTables.min.js" />
@@ -1724,7 +1725,6 @@
     <Content Include="fontawesome\webfonts\fa-solid-900.svg" />
     <Content Include="HomePage.aspx" />
     <Content Include="imgs\adminuser.png" />
-    <Content Include="imgs\BA001.jpg" />
     <Content Include="imgs\BA002.png" />
     <Content Include="imgs\book-online.png" />
     <Content Include="imgs\books.png" />
